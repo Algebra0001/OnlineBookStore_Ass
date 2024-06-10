@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OnlineBookStore_Ass.Data": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true
+    }
+  }
+}
