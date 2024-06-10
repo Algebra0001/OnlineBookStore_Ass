@@ -1,6 +1,7 @@
 # OnlineBookStore_Ass
 ## 
 Building
+#
 The project was built using the Layered Pattern with 5 Layered structures:
 The Layers are (in their other):
 1. MigrationRunner
