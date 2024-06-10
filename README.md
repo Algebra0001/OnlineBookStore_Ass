@@ -26,4 +26,5 @@ The project also implemented a repository pattern, where the abstraction of all 
 
 # 
 Running
+#
 After cloning the project, it's expected that the person that wants to run the app have ProgreSQL set on his Pc, create a database called online_bookstore and just change the password of the database connection string in the appsettings.json in the OnlineBookStore_Ass and OnlineBookStore_Ass to the password of the user's ProgreSQL.
